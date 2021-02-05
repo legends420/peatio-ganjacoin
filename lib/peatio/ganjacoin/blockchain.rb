@@ -1,4 +1,3 @@
-
 module Peatio
   module Ganjacoin
     # TODO: Processing of unconfirmed transactions from mempool isn't supported now.
