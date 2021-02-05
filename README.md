@@ -26,7 +26,7 @@ For Peatio Ganjacoin plugin integration you need to do the following steps:
 
 1. Add peatio-ganjacoin gem into your Gemfile.plugin
 ```ruby
-gem 'peatio-ganjacoin', '~> 0.1.0'
+gem 'peatio-ganjacoin', '~> 2.6.2'
 ```
 
 2. Run `bundle install` for updating Gemfile.lock
